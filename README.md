@@ -6,8 +6,8 @@ login as root user and than type:
 ```
 cd /root
 wget https://raw.githubusercontent.com/edoardocoen/skywire-install-ubuntu-xenial/master/services.sh
-wget https://raw.githubusercontent.com/edoardocoen/skywire-install-ubuntu-xenial/master/install.sh
-sh install.sh
+wget https://raw.githubusercontent.com/edoardocoen/skywire-install-ubuntu-xenial/master/skywire.sh
+sh skywire.sh
 ```
 
 # Services:
